@@ -1,0 +1,33 @@
+.container {
+    margin: 0 auto 0;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;   
+    gap: 20px;
+}
+
+.example-card {
+    background-color: #ac3cdc;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 300px;
+    height: 200px;
+}
+
+.card-body {
+    overflow: hidden;
+    background-color: aliceblue;
+    height:200px;
+}
+
+
+.button {
+    margin-right: 5px;
+}
+
+.image {
+    margin-bottom: 10px;
+}

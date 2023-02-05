@@ -1,0 +1,11 @@
+section {
+    width: 70%;
+    background-color: aliceblue;
+    margin: 0 auto 0;
+}
+
+.card-head {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
